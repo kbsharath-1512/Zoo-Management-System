@@ -26,10 +26,15 @@ This project demonstrates **full-stack development** with a modern frontend and 
 ## 📂 Project Structure  
 
 ├── css/ # Custom CSS files
+
 ├── js/ # jQuery scripts
+
 ├── images/ # Gallery & UI images
+
 ├── sql/ # Database file (zmsdb.sql)
+
 ├── index.html # Homepage
+
 └── README.md # Project documentation
 
 ---
